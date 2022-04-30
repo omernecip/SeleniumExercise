@@ -1,0 +1,5 @@
+Hey Guys!
+
+I tihnk .idea folder is added to .gitignore file after publishing the project on GitHub. Git still keep the tracking changes of .idea for GitHub.
+
+Here is the solution  "git rm --cached .idea" needs to be writen on inteeliJ console
